@@ -1,1 +1,193 @@
-# homeworks
+<!DOCTYPE html>
+<html lang="ka,En">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Untitled-1.css">
+    <link rel="stylesheet" href="homeworks/CSS/reset.css">
+
+</head>
+
+<body>
+    <header class="flex">
+        <div class="logo">
+
+            <img src="C:\Users\mikhe\OneDrive\Desktop\oct13-competitor.jpg" alt="site logo">
+        </div>
+        <nav class="menu flex">
+            <a class="menu-item" href="">Main menu</a>
+            <a class="menu-item" href="">News</a>
+            <a class="menu-item" href="">About</a>
+
+        </nav>
+
+
+
+    </header>
+
+
+    <main>
+
+
+        <h2>საცურაო აუზის სიახლეები</h2>
+        <div class="container">
+
+
+            <article class="MainPage">
+
+                <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+
+                <div class="Date"> 2023-10-20</div>
+                <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                    scheduled
+                    from Friday through
+                    Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where swimming
+                    competition begins
+                    Saturday and runs through Oct. 25 </P>
+                <div class="ReadMore">
+
+                    <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                        target="_blank"> დაწვრილებით
+                    </a>
+            </article>
+
+
+            <article class="MainPage">
+
+                <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+                <!-- <h2>საცურაო აუზის სიახლეები</h2> -->
+                <div class="Date"> 2023-10-20</div>
+                <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                    scheduled
+                    from Friday through
+                    Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where swimming
+                    competition begins
+                    Saturday and runs through Oct. 25 </P>
+                <div class="ReadMore">
+
+                    <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                        target="_blank"> დაწვრილებით
+                    </a>
+            </article>
+
+            <article class="MainPage">
+
+                <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+                <!-- <h2>საცურაო აუზის სიახლეები</h2> -->
+                <div class="Date"> 2023-10-20</div>
+                <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                    scheduled
+                    from Friday through
+                    Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where
+                    swimming
+                    competition begins
+                    Saturday and runs through Oct. 25 </P>
+                <div class="ReadMore">
+
+                    <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                        target="_blank"> დაწვრილებით
+                    </a>
+            </article>
+
+        </div>
+        <h3> საზოგადოება </h3>
+
+        <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+        <!-- <h2>საცურაო აუზის სიახლეები</h2> -->
+        <div class="Date"> 2023-10-20</div>
+        <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+            scheduled
+            from Friday through
+            Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where
+            swimming
+            competition begins
+            Saturday and runs through Oct. 25 </P>
+        <div class="ReadMore">
+
+            <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                target="_blank"> დაწვრილებით
+            </a>
+
+
+    </main>
+
+    <footer>
+        <footer class="container2">
+            პოლიტიკა
+            <div class="container2">
+
+
+                <article class="MainPage">
+
+                    <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+
+                    <div class="Date"> 2023-10-20</div>
+                    <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                        scheduled
+                        from Friday through
+                        Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where swimming
+                        competition begins
+                        Saturday and runs through Oct. 25 </P>
+                    <div class="ReadMore">
+
+                        <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                            target="_blank"> დაწვრილებით
+                        </a>
+                </article>
+
+
+                <article class="MainPage">
+
+                    <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+                    <!-- <h2>საცურაო აუზის სიახლეები</h2> -->
+                    <div class="Date"> 2023-10-20</div>
+                    <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                        scheduled
+                        from Friday through
+                        Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where swimming
+                        competition begins
+                        Saturday and runs through Oct. 25 </P>
+                    <div class="ReadMore">
+
+                        <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                            target="_blank"> დაწვრილებით
+                        </a>
+                </article>
+
+                <article class="MainPage">
+
+                    <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/9833/GettyImages-526245433.jpg">
+
+                    <!-- <h2>საცურაო აუზის სიახლეები</h2> -->
+                    <div class="Date"> 2023-10-20</div>
+                    <P> Wilm and Masse will now set their sights on the third leg of the World Cup in Budapest,
+                        scheduled
+                        from Friday through
+                        Sunday, while Pickrem and Mac Neil head to Santiago, Chile, for the Pan Am Games, where
+                        swimming
+                        competition begins
+                        Saturday and runs through Oct. 25 </P>
+                    <div class="ReadMore">
+
+                        <a href="https://www.swimming.ca/en/news/2023/10/16/pickrems-200-im-win-paces-canadians-at-world-cup/"
+                            target="_blank"> დაწვრილებით
+                        </a>
+                </article>
+
+            </div>
+
+        </footer>
+    </footer>
+
+</body>
+
+</html>

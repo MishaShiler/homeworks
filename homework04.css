@@ -1,0 +1,86 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    /* padding-left: 60px;
+    padding-right: 84px; */
+    padding: 33px 55px 33px 55px;
+
+}
+
+.logo {
+    width: 150px;
+    border-width: 24px;
+
+
+}
+
+.menu {
+    padding: 12px 23px 22px 46px;
+    background-color: yellow;
+    font-size: 20px;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.menu-item:hover {
+    opacity: 0.3
+}
+
+.menu-item {
+    padding: 12px 23px 22px 46px;
+
+    /* background-color: yellow; */
+
+}
+
+
+.container {
+
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: yellow;
+    text-align: center;
+    font-size: 22px;
+
+    padding: 0px 118px 0px 110px;
+    margin-top: 150px;
+    box-sizing: border-box;
+}
+
+.MainPage {
+    /* width: 250px;
+    display: flex; */
+    justify-content: space-between;
+    /* align-items: center;
+    flex-wrap: nowrap;
+    background-color: yellow; */
+}
+
+.ReadMore:hover {
+    opacity: 0.3;
+}
+
+.ReadMore {
+    font-size: larger;
+    font-style: italic;
+}
+
+.container2 {
+
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: yellow;
+    text-align: center;
+    font-size: 10px;
+
+    padding: 0px 118px 0px 110px;
+    margin-top: 55px;
+    box-sizing: border-box;
+}
