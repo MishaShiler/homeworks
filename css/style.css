@@ -1,0 +1,51 @@
+.container {
+    background-color: white;
+    margin-top: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+
+}
+
+img {
+    width: 150px;
+}
+
+h1 {
+
+    color: yellow;
+    font-size: 18;
+
+}
+
+h2 {
+    color: blue;
+}
+
+.about-cats {
+
+    background-color: white;
+    box-sizing: 300px;
+
+}
+
+h3 {
+    color: black;
+    background-color: yellow;
+    width: 300px;
+
+}
+
+.date {
+    color: yellow;
+}
+
+p {
+    font-size: 11;
+    color: black
+}
+
+.ReadMore:hover {
+    margin-right: 20px;
+    opacity: 0.3;
+}
